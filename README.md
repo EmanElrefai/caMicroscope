@@ -18,5 +18,8 @@ Current Status: Currently, caMicroscope supports uses of multiple types of model
 ## Code Challenge: 
 Using a machine learning toolkit of your choice, create a tool which identifies objects in the image, then returns positions in pixels corresponding to bounding boxes of a user-selected class of object in the image. For example, given an image with both cats and dogs, return bounding boxes for only cats.
 
+ - My project on codesandbox: 
+   https://codesandbox.io/s/object-detection-using-tensorflow-js-g4k9n
+
 ## Proposal
 
