@@ -2,7 +2,7 @@
 caMicroscope is a digital pathology image viewer with support for human/machine generated annotations and markups. The source code of the caMicroscope project can be found at https://github.com/camicroscope/caMicroscope, released with BSD 3-Clause License. In addition to the caMicroscope project, caMicroscope as an organization also hosts several related tools and products at https://github.com/camicroscope/
 
 
-## Cancer Region of Interest Extraction and Machine Learning
+# Cancer Region of Interest Extraction and Machine Learning
 
 Mentors: Insiyah Hajoori and Ryan Birmingham
 
@@ -18,5 +18,5 @@ Current Status: Currently, caMicroscope supports uses of multiple types of model
 ## Code Challenge: 
 Using a machine learning toolkit of your choice, create a tool which identifies objects in the image, then returns positions in pixels corresponding to bounding boxes of a user-selected class of object in the image. For example, given an image with both cats and dogs, return bounding boxes for only cats.
 
-
+## Proposal
 
